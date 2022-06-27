@@ -17,6 +17,4 @@ hello atguigu! hello git!
 
 123456789
 
-hot-fix
-
-hello gitee! hello gitee! hello gitee!
+hot-fix test
